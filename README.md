@@ -1,7 +1,7 @@
 <h1 align="center">🐍 Tugas Python P4</h1>
 
 <p align="center">
-  Project tugas Python dengan output visual yang menarik 🎨
+  Project tugas Python Algoritma Pertemuan 4🎨
 </p>
 
 ---
