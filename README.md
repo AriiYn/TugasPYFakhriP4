@@ -8,7 +8,7 @@
 
 <h2>📖 Deskripsi</h2>
 <p>
-Repository ini berisi kumpulan program Python 3 yang menghasilkan output berupa visual/gambar.
+Repository ini berisi kumpulan 3 program Python yang menghasilkan output
 Project ini dibuat untuk memenuhi tugas serta melatih pemahaman dasar Python.
 </p>
 
