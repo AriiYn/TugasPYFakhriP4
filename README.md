@@ -17,9 +17,9 @@ Project ini dibuat untuk memenuhi tugas serta melatih pemahaman dasar Python.
 <h2>🖼️ Hasil Output</h2>
 
 <p align="center">
-  <img src="output1.png" width="250"/>
-  <img src="output2.png" width="250"/>
-  <img src="output3.png" width="250"/>
+  <img src="output1.png" />
+  <img src="output2.png" />
+  <img src="output3.png" />
 </p>
 
 ---
